@@ -7,7 +7,7 @@
 
 # My Bots ✨ 
 
-[Astroz Music] (https://invite.astrozmusic.ml/) 
+[Astroz Music] (https://discord.com/oauth2/authorize?client_id=811109715433619476&permissions=8&scope=bot%20applications.commands) 
 
 [Shield](https://discord.com/api/oauth2/authorize?client_id=876490721249607691&permissions=8&scope=bot%20applications.commands) 
  
