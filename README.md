@@ -6,8 +6,8 @@
 ![Discord](https://discord.c99.nl/widget/theme-4/574203871912787969.png)
 
 # My Bots ✨ 
-<ul>
-          <li>Astroz Music</li>
-        <li>Shield</li>
-</ul>
+
+[Astroz Music] (https://invite.astrozmusic.ml/) 
+
+[Shield](https://discord.com/api/oauth2/authorize?client_id=876490721249607691&permissions=8&scope=bot%20applications.commands) 
  
